@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **second-year BTech student** at Ajeenkya DY Patil University, specializing in **Computer Science (AI & Data Science)**. Passionate about cutting-edge technologies, I aim to build solutions that blend creativity with analytical prowess.
+I'm a **third-year BTech student** at Ajeenkya DY Patil University, specializing in **Computer Science (AI & Data Science)**. Passionate about cutting-edge technologies, I aim to build solutions that blend creativity with analytical prowess.
 
 I'm currently interning at **Cosmic 365 AI**, exploring **AI** and **machine learning** while honing my skills in **data science** and **software development**. I'm also keen on contributing to open-source projects and applying my knowledge to solve real-world challenges.
 
