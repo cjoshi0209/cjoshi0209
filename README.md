@@ -38,6 +38,3 @@ I'm currently interning at **Cosmic 365 AI**, exploring **AI** and **machine lea
 
 Thanks for stopping by! 😄
 
----
-
-You can add GitHub stats or contribution graphs using badges and markdown formatting for even more personalization. Let me know if you'd like me to integrate these!
