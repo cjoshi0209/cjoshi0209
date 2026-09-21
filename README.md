@@ -10,7 +10,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+LLM+Evaluation+%26+RAG+Observability+Systems;Founder+%40+ORIXEN.AI+%7C+AI+Revenue+Automation;Microsoft+Azure+AI+Engineer+Associate+%E2%9C%94;SIH+Top+Qualifier+2024+%26+2025+%E2%9C%94;B.Tech+AI+%26+Data+Science+%7C+ADYPU+Pune+%E2%80%94+Graduating+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+LLM+Evaluation+%26+RAG+Observability+Systems;Founder+%40+ORIXEN.AI+%7C+AI+Revenue+Automation;Microsoft+Azure+AI+Engineer+Associate+%E2%9C%94;SIH+National+Finalist+%E2%9C%94;B.Tech+AI+%26+Data+Science+%7C+ADYPU+Pune+%E2%80%94+Graduating+2027)](https://git.io/typing-svg)
 
 <br/>
 
@@ -38,7 +38,7 @@ chinmay = {
     "focus":       ["LLM Evaluation", "RAG Observability", "GenAI Pipelines"],
     "stack":       ["FastAPI", "LangChain", "GPT-4", "Docker", "AWS", "Azure"],
     "certified":   "Microsoft Azure AI Engineer Associate",
-    "sih":         "Top Qualifier 2024 & 2025",
+    "sih":         "National Finalist",
     "location":    "Pune, India  |  Open to Remote / Relocate",
     "open_to":     "Internships · Full-time · Collaborations"
 }
@@ -79,36 +79,36 @@ chinmay = {
 <tr>
 <td width="50%">
 
-### 🔬 [RAG Evaluation Pipeline](https://github.com/cjoshi0209/rag-eval-pipeline)
-Production-grade LLM evaluation system with hallucination scoring, context faithfulness checks, and observability dashboards.
+### 🔬 [RAG Evaluation Pipeline](https://github.com/cjoshi0209/Rag-Eval-Pipeline)
+Lightweight LLM evaluation system with hallucination scoring, context faithfulness tracking, and retrieval-quality observability.
 
-`FastAPI` `LangChain` `GPT-4` `Docker`
+`FastAPI` `SQLite` `Docker` `pytest`
 
 </td>
 <td width="50%">
 
-### 🤖 [Enterprise AI Assistant](https://github.com/cjoshi0209/Enterpise-Ai-Assistant)
-Multi-agent enterprise assistant with RAG backend, tool-use, and role-based access control.
+### 🤖 [Enterprise AI Assistant](https://github.com/cjoshi0209/Enterprise-Ai-Assistant)
+Role-aware multi-agent RAG assistant with RBAC-scoped retrieval, audit logging, and a swappable agent pipeline.
 
-`Python` `LangChain` `PostgreSQL` `FastAPI`
+`Python` `FastAPI` `RBAC` `pytest`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚦 [AI Traffic Management System](https://github.com/cjoshi0209/ai-traffic-management-system)
-Real-time adaptive traffic control using computer vision and reinforcement learning. SIH qualifier project.
+### ♻️ [India E-Waste Map](https://github.com/cjoshi0209/IndiaEwasteDisposal)
+Interactive map for locating e-waste disposal points across India, with progressive geocoding and category-coded markers.
 
-`Python` `OpenCV` `TensorFlow` `RL`
+`Flask` `Leaflet` `Docker`
 
 </td>
 <td width="50%">
 
-### 📊 [LLM Observability Dashboard](https://github.com/cjoshi0209/llm-observability-dashboard)
-Real-time monitoring for LLM pipelines — latency, token cost, and quality drift tracking.
+### 💼 [Portfolio Site](https://github.com/cjoshi0209/portfolio-project)
+Personal portfolio site showcasing my projects and background.
 
-`FastAPI` `React` `Redis` `Docker`
+`HTML` `CSS`
 
 </td>
 </tr>
