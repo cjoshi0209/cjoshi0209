@@ -1,149 +1,40 @@
-<div align="center">
+## Hi, I'm Chinmay Joshi
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&animation=fadeIn" width="100%"/>
+AI/ML engineer and founder of [ORIXEN.AI](https://orixenai.in), based in Pune, India. I build backend and LLM systems in Python, FastAPI and PostgreSQL, and I care about measuring them: tests, benchmarks and profiling.
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║         CHINMAY JOSHI  ·  FOUNDER & AI/ML ENGINEER          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+I'm in my final year of a B.Tech in Artificial Intelligence and Data Science at Ajeenkya DY Patil University (CGPA 8.1/10, graduating 2027), and I'm open to software engineering and AI/ML engineering roles.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+LLM+Evaluation+%26+RAG+Observability+Systems;Founder+%40+ORIXEN.AI+%7C+AI+Revenue+Automation;Microsoft+Azure+AI+Engineer+Associate+%E2%9C%94;SIH+National+Finalist+%E2%9C%94;B.Tech+AI+%26+Data+Science+%7C+ADYPU+Pune+%E2%80%94+Graduating+2027)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshichinmay.tech-111111?style=flat-square)](https://joshichinmay.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinmay--joshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-joshi-62b873212)
+[![Email](https://img.shields.io/badge/Email-joshichinmay2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joshichinmay2004@gmail.com)
 
-<br/>
+### Experience
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-joshichinmay.tech-7C3AED?style=for-the-badge&logoColor=white)](https://joshichinmay.tech)
-[![ORIXEN.AI](https://img.shields.io/badge/Startup-ORIXEN.AI-0f0f0f?style=for-the-badge&logoColor=white)](https://orixenai.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-joshi-62b873212)
-[![Azure Certified](https://img.shields.io/badge/Azure_AI_Engineer-Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
+**Founder and AI/ML Engineer, ORIXEN.AI** · Sept 2025 – present<br>
+Built and shipped automation systems for 20+ clients in healthcare, real estate and B2B: lead capture, CRM routing, customer communication and operations workflows. FastAPI and PostgreSQL backends with LangChain and GPT-4, containerised with Docker and deployed on AWS.
 
-</div>
+**AI/ML Intern, COSMIC365.AI** · Dec 2024 – Feb 2025<br>
+Built ETL pipelines in Python and pandas with async FastAPI endpoints, and benchmarked XGBoost and Random Forest models for production readiness.
 
----
+### Selected projects
 
-## About
+| Project | What it does | Stack |
+|---|---|---|
+| [**LucidFi**](https://github.com/chinmayjoshi864/lucidfi) | Settlement reconciliation engine built solo for the Razorpay AI Buildathon. Reconciles 12,442 payments against payouts and bank credits; matching on 74,227 records went from 53.5 s to 0.37 s (~145x) and exact-match accuracy from 84.4% to 100% on a held-out benchmark. 550 tests on CI. | Python, FastAPI, PostgreSQL, LangGraph, React, Hypothesis |
+| [**Enterprise AI Assistant**](https://github.com/cjoshi0209/Enterprise-Ai-Assistant) | RAG service that enforces role-based access control inside the retrieval path, with a swappable Planner, Retriever and Responder pipeline and an append-only audit log. | Python, FastAPI, Docker, pytest |
+| [**RAG Evaluation Pipeline**](https://github.com/cjoshi0209/Rag-Eval-Pipeline) | REST service that scores RAG answers for faithfulness, relevance, context recall and hallucination, with an offline scorer or a GPT-4o-mini judge behind one interface. | Python, FastAPI, SQLite, OpenAI API |
+| [**Operations Hub**](https://github.com/cjoshi0209/operations-hub) | Internal work-item app with queues, an approval workflow, append-only history and async notifications. 88 backend and 17 frontend tests on CI. | FastAPI, SQLAlchemy, React, TypeScript |
+| [**Email Job Scheduler**](https://github.com/cjoshi0209/reachinbox-email-scheduler) | Email scheduler on BullMQ delayed jobs with idempotent workers, distributed per-sender rate limits and a Next.js dashboard. | TypeScript, Express, Redis, PostgreSQL, Elasticsearch |
 
-I'm a **Founder-Engineer** currently building [ORIXEN.AI](https://orixenai.in) — an AI revenue automation company serving real clients.
+### Skills
 
-My day-to-day work lives at the intersection of **LLM evaluation**, **RAG observability**, and **production GenAI systems**. I don't just prototype — I ship pipelines that clients depend on.
+**Languages:** Python, SQL, JavaScript, TypeScript<br>
+**Backend:** FastAPI, REST APIs, SQLAlchemy, PostgreSQL, SQLite, MongoDB<br>
+**AI/ML:** LangChain, LangGraph, RAG, OpenAI and Anthropic APIs, PyTorch, scikit-learn<br>
+**Tools and cloud:** Git, Docker, GitHub Actions, pytest, AWS (EC2, S3, Lambda), Linux
 
-Currently in my **7th semester** of B.Tech AI & Data Science at ADYPU Pune, graduating 2027.
+### Recognition
 
-```python
-chinmay = {
-    "role":        "Founder & AI/ML Engineer",
-    "company":     "ORIXEN.AI  →  orixenai.in",
-    "focus":       ["LLM Evaluation", "RAG Observability", "GenAI Pipelines"],
-    "stack":       ["FastAPI", "LangChain", "GPT-4", "Docker", "AWS", "Azure"],
-    "certified":   "Microsoft Azure AI Engineer Associate",
-    "sih":         "National Finalist",
-    "location":    "Pune, India  |  Open to Remote / Relocate",
-    "open_to":     "Internships · Full-time · Collaborations"
-}
-```
-
----
-
-## Tech Stack
-
-**AI/ML & GenAI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend & Full-Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 [RAG Evaluation Pipeline](https://github.com/cjoshi0209/Rag-Eval-Pipeline)
-Lightweight LLM evaluation system with hallucination scoring, context faithfulness tracking, and retrieval-quality observability.
-
-`FastAPI` `SQLite` `Docker` `pytest`
-
-</td>
-<td width="50%">
-
-### 🤖 [Enterprise AI Assistant](https://github.com/cjoshi0209/Enterprise-Ai-Assistant)
-Role-aware multi-agent RAG assistant with RBAC-scoped retrieval, audit logging, and a swappable agent pipeline.
-
-`Python` `FastAPI` `RBAC` `pytest`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ♻️ [India E-Waste Map](https://github.com/cjoshi0209/IndiaEwasteDisposal)
-Interactive map for locating e-waste disposal points across India, with progressive geocoding and category-coded markers.
-
-`Flask` `Leaflet` `Docker`
-
-</td>
-<td width="50%">
-
-### 💼 [Portfolio Site](https://github.com/cjoshi0209/portfolio-project)
-Personal portfolio site showcasing my projects and background.
-
-`HTML` `CSS`
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cjoshi0209&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjoshi0209&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=7C3AED&text_color=ffffff&langs_count=6" />
-
-</div>
-
----
-
-## Currently
-
-- 🏗️ Shipping AI pipelines at [ORIXEN.AI](https://orixenai.in) — working with real clients
-- 📖 Deep-diving into LLM evaluation frameworks and observability tooling
-- 🔍 Open to **AI/ML internships** and **GenAI engineering roles**
-- ✍️ Writing about applied AI on [Medium](https://medium.com) and [LinkedIn](https://linkedin.com/in/chinmay-joshi-62b873212)
-
----
-
-<div align="center">
-
-**Open to opportunities · Remote preferred · Relocate for the right role**
-
-`AI/ML Engineering` · `LLM Evaluation` · `GenAI Systems` · `Applied AI`
-
-[![Email](https://img.shields.io/badge/Let's_Talk-Email_Me-7C3AED?style=for-the-badge)](mailto:chinmayjoshi@orixenai.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
-
-</div>
+- Smart India Hackathon (Govt. of India): Top Qualifier, 2024 and 2025
+- Capstone research: LucidFi, an explainable AI framework for cash-flow intelligence in the UPI ecosystem
+- CS50x (Harvard) · Machine Learning Specialization (Stanford) · Deep Learning Specialization (DeepLearning.AI)
